@@ -1,26 +1,43 @@
-# Linux_Learning_Report2
-# Chapter 0 前置学习记录
+#  前置学习记录
 
+## 📖 项目介绍
 
-## 学习内容
+本仓库用于记录我的科研前置学习过程。
 
-本项目记录科研入门阶段的学习过程。
+目前学习内容包括：
 
-
-## 已完成内容
-
-- Linux基础
-- Conda环境配置
-- CUDA环境配置
+- Linux
+- Git
+- Markdown
 - 计算机网络
-- Git使用
-- Markdown记录
+- Conda
+- CUDA
 
+---
 
-## 文件说明
+## 📂 项目结构
 
-|文件|内容|
-|-|-|
-|Linux.md|Linux学习笔记|
-|Git.md|Git学习笔记|
-|Network.md|网络学习笔记|
+```text
+Linux_Learning_Report2
+│
+├── README.md
+├── linux.md
+└── images
+```
+
+---
+
+## 📚 学习记录
+
+| 文件 | 内容 |
+|------|------|
+| linux.md | Linux 基础学习 |
+
+---
+
+## 🎯 学习目标
+
+- 熟悉 Linux 基础命令
+- 掌握 Git 使用
+- 学会 Markdown 编写科研文档
+- 为后续深度学习环境搭建做准备
